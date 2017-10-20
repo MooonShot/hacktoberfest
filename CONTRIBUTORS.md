@@ -1470,3 +1470,8 @@ Noida
 - Place: UK
 - Bio: Learning to code through freeCodeCamp
 - GitHub: [Peter Walsh](https://github.com/ddddamian/)
+
+### Name: [Aayush Babbar](https://github.com/MooonShot)
+- Place: India
+- Bio: Amateur Programmer
+- GitHub: [MooonShot](https://github.com/MooonShot)
